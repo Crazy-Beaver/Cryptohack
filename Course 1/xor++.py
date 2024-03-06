@@ -8,4 +8,4 @@ for i in range (256):
         outcomes = outcomes+(chr(j^i))
     print(i, outcomes)
     outcomes = ""
-#coto kurva?ř
+#coto kurva?
